@@ -6,20 +6,6 @@
 
 ---
 
-## 📑 Table of Contents
-- [📌 Project Overview](#-project-overview)
-- [🎯 Objectives](#-objectives)
-- [🛠 Tools & Technologies](#-tools--technologies)
-- [📂 Dataset Details](#-dataset-details)
-- [📈 Dashboard Features](#-dashboard-features)
-- [🚀 Steps Followed](#-steps-followed)
-- [📷 Dashboard Preview](#-dashboard-preview)
-- [📌 Key Insights](#-key-insights)
-- [📜 Conclusion](#-conclusion)
-- [📎 Author](#-author)
-
----
-
 ## 📌 Project Overview
 This project is an **interactive Netflix Dashboard** built in **Power BI** to explore and analyze global Netflix content.  
 The dashboard allows users to view **movies and TV shows distribution, release trends, ratings, and genres** across different countries.  
@@ -32,6 +18,9 @@ The dashboard allows users to view **movies and TV shows distribution, release t
 - Identify **popular genres and categories**.  
 - Track **release trends over years**.  
 - Understand **age ratings distribution**.  
+---
+Dashborad Preview
+<img width="1894" height="1068" alt="Screenshot 2025-08-27 185511" src="https://github.com/user-attachments/assets/71c77409-3703-4bef-ab02-7219f1e7842a" />
 
 ---
 
